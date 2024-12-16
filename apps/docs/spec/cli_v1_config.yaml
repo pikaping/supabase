@@ -779,7 +779,7 @@ parameters:
     links:
       - name: 'Auth Server configuration'
         link: 'https://supabase.com/docs/reference/auth'
-        
+
   - id: 'auth.external.provider.skip_nonce_check'
     title: 'auth.external.<provider>.skip_nonce_check'
     tags: ['auth']
